@@ -1,0 +1,141 @@
+{
+  "patients": [
+    {
+      "patient_id": "SYN-127",
+      "patient_name": "Demo SYN-127",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 55,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "antihypertensive_med_count": 3,
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "148/92"
+      },
+      "laboratory_results": {
+        "egfr": 60
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-128",
+      "patient_name": "Demo SYN-128",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 69,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "antihypertensive_med_count": 5,
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "170/100"
+      },
+      "laboratory_results": {
+        "egfr": 52
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-129",
+      "patient_name": "Demo SYN-129",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 60,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "antihypertensive_med_count": 3,
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "132/84"
+      },
+      "laboratory_results": {
+        "egfr": 70
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-130",
+      "patient_name": "Demo SYN-130",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 58,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "antihypertensive_med_count": 2,
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "155/95"
+      },
+      "laboratory_results": {
+        "egfr": 75
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-131",
+      "patient_name": "Demo SYN-131",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 71,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "antihypertensive_med_count": 4,
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "160/96"
+      },
+      "laboratory_results": {
+        "egfr": 28
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-132",
+      "patient_name": "Demo SYN-132",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 53,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "152/94"
+      },
+      "laboratory_results": {
+        "egfr": 68
+      },
+      "treatment": {}
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "patients": [
+    {
+      "id": "EDGE-01",
+      "codeName": "Flat-format patient (no nesting)",
+      "sex": "female",
+      "age": 47,
+      "primaryDiagnosis": "Type 2 Diabetes Mellitus",
+      "pregnancyStatus": "not_pregnant",
+      "hba1c": 8.6,
+      "bmi": 31.5,
+      "egfr": 82,
+      "historyOfPancreatitis": false,
+      "priorTherapies": ["Metformin"]
+    },
+    {
+      "patient_id": "EDGE-02",
+      "demographics": { "age": 50 },
+      "primary_diagnosis": "Hypertension",
+      "note": "REJECTED: sex is missing"
+    },
+    {
+      "patient_id": "EDGE-03",
+      "demographics": { "age": "abc", "sex": "Male" },
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "note": "REJECTED: age is not a number"
+    },
+    {
+      "patient_id": "EDGE-04",
+      "patient_name": "Should Never Be Imported",
+      "date_of_birth": "1970-01-01",
+      "phone": "000-000-0000",
+      "email": "nobody@example.com",
+      "demographics": { "age": 54, "sex": "Male", "pregnancy_status": "Not applicable" },
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "medical_history": { "disease_duration_months": 12, "active_infection": false },
+      "treatment": { "previous_treatments": ["Methotrexate"] },
+      "note": "IMPORTED: name, date of birth, phone and email are dropped as identifiers"
+    },
+    {
+      "patient_id": "EDGE-04",
+      "demographics": { "age": 40, "sex": "Male" },
+      "primary_diagnosis": "Hypertension",
+      "note": "REJECTED: duplicate patient id within the same file"
+    },
+    {
+      "patient_id": "EDGE-05",
+      "demographics": { "age": 35, "sex": "Female", "pregnancy_status": "Not pregnant" },
+      "primary_diagnosis": "Migraine",
+      "note": "IMPORTED with warning: no protocol targets this disease, so no trial matches"
+    },
+    {
+      "patient_id": "EDGE-06",
+      "demographics": { "age": 29, "sex": "Female", "pregnancy_status": "maybe" },
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "note": "REJECTED: pregnancy status not recognised"
+    }
+  ]
+}

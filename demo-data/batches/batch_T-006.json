@@ -1,0 +1,151 @@
+{
+  "patients": [
+    {
+      "patient_id": "SYN-140",
+      "patient_name": "Demo SYN-140",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 59,
+        "sex": "Female",
+        "pregnancy_status": "Not applicable (post-menopausal)"
+      },
+      "medical_history": {
+        "ecog_status": 0,
+        "brca_mutation": "positive",
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Carboplatin",
+          "Paclitaxel"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-141",
+      "patient_name": "Demo SYN-141",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 66,
+        "sex": "Female",
+        "pregnancy_status": "Not applicable (post-menopausal)"
+      },
+      "medical_history": {
+        "ecog_status": 2,
+        "brca_mutation": "positive",
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Carboplatin"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-142",
+      "patient_name": "Demo SYN-142",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 54,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "brca_mutation": "negative",
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-143",
+      "patient_name": "Demo SYN-143",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 70,
+        "sex": "Female",
+        "pregnancy_status": "Not applicable (post-menopausal)"
+      },
+      "medical_history": {
+        "ecog_status": 3,
+        "brca_mutation": "positive",
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-144",
+      "patient_name": "Demo SYN-144",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 62,
+        "sex": "Female",
+        "pregnancy_status": "Not applicable (post-menopausal)"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "brca_mutation": "positive",
+        "prior_parp_inhibitor": true
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-145",
+      "patient_name": "Demo SYN-145",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 48,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "ecog_status": 0,
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-146",
+      "patient_name": "Demo SYN-146",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 56,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "brca_mutation": "positive",
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {}
+    }
+  ]
+}

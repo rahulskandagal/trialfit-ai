@@ -1,0 +1,165 @@
+{
+  "patients": [
+    {
+      "patient_id": "SYN-133",
+      "patient_name": "Demo SYN-133",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 38,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "disease_duration_months": 8,
+        "active_infection": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-134",
+      "patient_name": "Demo SYN-134",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 57,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "disease_duration_months": 60,
+        "active_infection": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate",
+          "Prednisolone"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-135",
+      "patient_name": "Demo SYN-135",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 33,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "disease_duration_months": 4,
+        "active_infection": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-136",
+      "patient_name": "Demo SYN-136",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 46,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "disease_duration_months": 20,
+        "active_infection": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Sulfasalazine"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-137",
+      "patient_name": "Demo SYN-137",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 52,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "disease_duration_months": 30,
+        "active_infection": true
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-138",
+      "patient_name": "Demo SYN-138",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 29,
+        "sex": "Female",
+        "pregnancy_status": "Pregnant"
+      },
+      "medical_history": {
+        "disease_duration_months": 18,
+        "active_infection": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-139",
+      "patient_name": "Demo SYN-139",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 44,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "disease_duration_months": 24
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate"
+        ]
+      }
+    }
+  ]
+}

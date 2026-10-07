@@ -1,0 +1,22 @@
+{
+  "patient_id": "SYN-132",
+  "patient_name": "Demo SYN-132",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Resistant Hypertension",
+  "demographics": {
+    "age": 53,
+    "sex": "Female",
+    "pregnancy_status": "Not pregnant"
+  },
+  "medical_history": {
+    "hypertension": true
+  },
+  "vital_signs": {
+    "blood_pressure": "152/94"
+  },
+  "laboratory_results": {
+    "egfr": 68
+  },
+  "treatment": {}
+}

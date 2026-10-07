@@ -1,0 +1,23 @@
+{
+  "patient_id": "SYN-131",
+  "patient_name": "Demo SYN-131",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Resistant Hypertension",
+  "demographics": {
+    "age": 71,
+    "sex": "Male",
+    "pregnancy_status": "Not applicable"
+  },
+  "medical_history": {
+    "antihypertensive_med_count": 4,
+    "hypertension": true
+  },
+  "vital_signs": {
+    "blood_pressure": "160/96"
+  },
+  "laboratory_results": {
+    "egfr": 28
+  },
+  "treatment": {}
+}

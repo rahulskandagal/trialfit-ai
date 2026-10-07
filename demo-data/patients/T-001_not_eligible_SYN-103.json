@@ -1,0 +1,20 @@
+{
+  "patient_id": "SYN-103",
+  "patient_name": "Demo SYN-103",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+  "demographics": {
+    "age": 60,
+    "sex": "Male",
+    "pregnancy_status": "Not applicable"
+  },
+  "medical_history": {
+    "dialysis_dependent": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {
+    "egfr": 24
+  },
+  "treatment": {}
+}

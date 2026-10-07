@@ -1,0 +1,26 @@
+{
+  "patient_id": "SYN-124",
+  "patient_name": "Demo SYN-124",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Type 2 Diabetes Mellitus",
+  "demographics": {
+    "age": 31,
+    "sex": "Female",
+    "pregnancy_status": "Pregnant"
+  },
+  "medical_history": {
+    "diabetes": true,
+    "diabetes_type": "Type 2",
+    "history_of_pancreatitis": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {
+    "hba1c_percent": 8.1,
+    "egfr": 92
+  },
+  "treatment": {},
+  "clinical_information": {
+    "bmi": 30.0
+  }
+}

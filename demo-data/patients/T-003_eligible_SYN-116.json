@@ -1,0 +1,26 @@
+{
+  "patient_id": "SYN-116",
+  "patient_name": "Demo SYN-116",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Type 2 Diabetes Mellitus",
+  "demographics": {
+    "age": 40,
+    "sex": "Male",
+    "pregnancy_status": "Not applicable"
+  },
+  "medical_history": {
+    "diabetes": true,
+    "diabetes_type": "Type 2",
+    "history_of_pancreatitis": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {
+    "hba1c_percent": 7.8,
+    "egfr": 90
+  },
+  "treatment": {},
+  "clinical_information": {
+    "bmi": 29.0
+  }
+}

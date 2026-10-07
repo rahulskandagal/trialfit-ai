@@ -1,0 +1,24 @@
+{
+  "patient_id": "SYN-141",
+  "patient_name": "Demo SYN-141",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Ovarian Cancer",
+  "demographics": {
+    "age": 66,
+    "sex": "Female",
+    "pregnancy_status": "Not applicable (post-menopausal)"
+  },
+  "medical_history": {
+    "ecog_status": 2,
+    "brca_mutation": "positive",
+    "prior_parp_inhibitor": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {},
+  "treatment": {
+    "previous_treatments": [
+      "Carboplatin"
+    ]
+  }
+}

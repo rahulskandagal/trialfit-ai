@@ -1,0 +1,25 @@
+{
+  "patient_id": "DEMO-01",
+  "patient_name": "Demo DEMO-01",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+  "demographics": {
+    "age": 58,
+    "sex": "Male",
+    "pregnancy_status": "Not applicable"
+  },
+  "medical_history": {
+    "dialysis_dependent": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {
+    "egfr": 41,
+    "hba1c_percent": 6.9
+  },
+  "treatment": {
+    "current_medications": [
+      "Ramipril 5 mg daily"
+    ]
+  }
+}

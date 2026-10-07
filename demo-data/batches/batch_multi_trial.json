@@ -1,0 +1,34 @@
+{
+  "patients": [
+    {
+      "patient_id": "SYN-147",
+      "patient_name": "Demo SYN-147",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 56,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "hypertension": true,
+        "history_of_pancreatitis": false,
+        "antihypertensive_med_count": 3
+      },
+      "vital_signs": {
+        "blood_pressure": "150/94"
+      },
+      "laboratory_results": {
+        "hba1c_percent": 8.5,
+        "egfr": 75
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 30.0
+      }
+    }
+  ]
+}

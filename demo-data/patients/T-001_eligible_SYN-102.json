@@ -1,0 +1,21 @@
+{
+  "patient_id": "SYN-102",
+  "patient_name": "Demo SYN-102",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+  "demographics": {
+    "age": 71,
+    "sex": "Female",
+    "pregnancy_status": "Not pregnant"
+  },
+  "medical_history": {
+    "dialysis_dependent": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {
+    "egfr": 55,
+    "hba1c_percent": 7.4
+  },
+  "treatment": {}
+}

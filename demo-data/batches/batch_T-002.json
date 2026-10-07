@@ -1,0 +1,187 @@
+{
+  "patients": [
+    {
+      "patient_id": "SYN-108",
+      "patient_name": "Demo SYN-108",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 58,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "ecog_status": 0,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 80,
+        "bilirubin_uln_ratio": 0.8
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-109",
+      "patient_name": "Demo SYN-109",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IIIB",
+      "demographics": {
+        "age": 64,
+        "sex": "Female",
+        "pregnancy_status": "Not applicable (post-menopausal)"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 5,
+        "bilirubin_uln_ratio": 1.2
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-110",
+      "patient_name": "Demo SYN-110",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 72,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "ecog_status": 3,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 50,
+        "bilirubin_uln_ratio": 1.0
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-111",
+      "patient_name": "Demo SYN-111",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 61,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "prior_immunotherapy": true,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 60,
+        "bilirubin_uln_ratio": 0.9
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-112",
+      "patient_name": "Demo SYN-112",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 55,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 0,
+        "bilirubin_uln_ratio": 0.9
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-113",
+      "patient_name": "Demo SYN-113",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 67,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 30,
+        "bilirubin_uln_ratio": 2.4
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-114",
+      "patient_name": "Demo SYN-114",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 59,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "ecog_status": 0,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": true
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 40,
+        "bilirubin_uln_ratio": 1.0
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-115",
+      "patient_name": "Demo SYN-115",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 62,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "bilirubin_uln_ratio": 1.0
+      },
+      "treatment": {}
+    }
+  ]
+}

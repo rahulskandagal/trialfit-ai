@@ -1,0 +1,22 @@
+{
+  "patient_id": "SYN-115",
+  "patient_name": "Demo SYN-115",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+  "demographics": {
+    "age": 62,
+    "sex": "Male",
+    "pregnancy_status": "Not applicable"
+  },
+  "medical_history": {
+    "ecog_status": 1,
+    "prior_immunotherapy": false,
+    "autoimmune_disease": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {
+    "bilirubin_uln_ratio": 1.0
+  },
+  "treatment": {}
+}

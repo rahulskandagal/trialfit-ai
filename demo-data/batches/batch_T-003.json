@@ -1,0 +1,288 @@
+{
+  "patients": [
+    {
+      "patient_id": "SYN-116",
+      "patient_name": "Demo SYN-116",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 40,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 7.8,
+        "egfr": 90
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 29.0
+      }
+    },
+    {
+      "patient_id": "SYN-117",
+      "patient_name": "Demo SYN-117",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 68,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 10.2,
+        "egfr": 65
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 35.0
+      }
+    },
+    {
+      "patient_id": "SYN-118",
+      "patient_name": "Demo SYN-118",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 50,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 6.4,
+        "egfr": 85
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 28.0
+      }
+    },
+    {
+      "patient_id": "SYN-119",
+      "patient_name": "Demo SYN-119",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 47,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 11.5,
+        "egfr": 80
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 31.0
+      }
+    },
+    {
+      "patient_id": "SYN-120",
+      "patient_name": "Demo SYN-120",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 45,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.0,
+        "egfr": 88
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 23.0
+      }
+    },
+    {
+      "patient_id": "SYN-121",
+      "patient_name": "Demo SYN-121",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 63,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.5,
+        "egfr": 25
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 30.0
+      }
+    },
+    {
+      "patient_id": "SYN-122",
+      "patient_name": "Demo SYN-122",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 54,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": true
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 9.0,
+        "egfr": 78
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 32.0
+      }
+    },
+    {
+      "patient_id": "SYN-123",
+      "patient_name": "Demo SYN-123",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 78,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.2,
+        "egfr": 60
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 27.0
+      }
+    },
+    {
+      "patient_id": "SYN-124",
+      "patient_name": "Demo SYN-124",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 31,
+        "sex": "Female",
+        "pregnancy_status": "Pregnant"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.1,
+        "egfr": 92
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 30.0
+      }
+    },
+    {
+      "patient_id": "SYN-125",
+      "patient_name": "Demo SYN-125",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 44,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2"
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.9,
+        "egfr": 88
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 33.0
+      }
+    },
+    {
+      "patient_id": "SYN-126",
+      "patient_name": "Demo SYN-126",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 51,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.3
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 29.5
+      }
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "patients": [
+    {
+      "patient_id": "SYN-101",
+      "patient_name": "Demo SYN-101",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 52,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "dialysis_dependent": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 35,
+        "hba1c_percent": 6.5
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-102",
+      "patient_name": "Demo SYN-102",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 71,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "dialysis_dependent": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 55,
+        "hba1c_percent": 7.4
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-103",
+      "patient_name": "Demo SYN-103",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 60,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "dialysis_dependent": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 24
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-104",
+      "patient_name": "Demo SYN-104",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 49,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "dialysis_dependent": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 68
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-105",
+      "patient_name": "Demo SYN-105",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 66,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "dialysis_dependent": true
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 32
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-106",
+      "patient_name": "Demo SYN-106",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 84,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "dialysis_dependent": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 40
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-107",
+      "patient_name": "Demo SYN-107",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 57,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {},
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 42
+      },
+      "treatment": {}
+    }
+  ]
+}

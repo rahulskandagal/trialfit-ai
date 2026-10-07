@@ -1,0 +1,23 @@
+{
+  "patient_id": "SYN-138",
+  "patient_name": "Demo SYN-138",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Rheumatoid Arthritis",
+  "demographics": {
+    "age": 29,
+    "sex": "Female",
+    "pregnancy_status": "Pregnant"
+  },
+  "medical_history": {
+    "disease_duration_months": 18,
+    "active_infection": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {},
+  "treatment": {
+    "previous_treatments": [
+      "Methotrexate"
+    ]
+  }
+}

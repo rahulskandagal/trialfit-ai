@@ -1,0 +1,23 @@
+{
+  "patient_id": "SYN-108",
+  "patient_name": "Demo SYN-108",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+  "demographics": {
+    "age": 58,
+    "sex": "Male",
+    "pregnancy_status": "Not applicable"
+  },
+  "medical_history": {
+    "ecog_status": 0,
+    "prior_immunotherapy": false,
+    "autoimmune_disease": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {
+    "pdl1_expression": 80,
+    "bilirubin_uln_ratio": 0.8
+  },
+  "treatment": {}
+}

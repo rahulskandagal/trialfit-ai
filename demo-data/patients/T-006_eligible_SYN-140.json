@@ -1,0 +1,25 @@
+{
+  "patient_id": "SYN-140",
+  "patient_name": "Demo SYN-140",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Ovarian Cancer",
+  "demographics": {
+    "age": 59,
+    "sex": "Female",
+    "pregnancy_status": "Not applicable (post-menopausal)"
+  },
+  "medical_history": {
+    "ecog_status": 0,
+    "brca_mutation": "positive",
+    "prior_parp_inhibitor": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {},
+  "treatment": {
+    "previous_treatments": [
+      "Carboplatin",
+      "Paclitaxel"
+    ]
+  }
+}

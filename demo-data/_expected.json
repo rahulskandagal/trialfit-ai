@@ -1,0 +1,284 @@
+[
+  {
+    "id": "SYN-101",
+    "trial": "T-001",
+    "expected": "ELIGIBLE",
+    "why": "eGFR 35 in range"
+  },
+  {
+    "id": "SYN-102",
+    "trial": "T-001",
+    "expected": "ELIGIBLE",
+    "why": "eGFR 55, age 71"
+  },
+  {
+    "id": "SYN-103",
+    "trial": "T-001",
+    "expected": "NOT_ELIGIBLE",
+    "why": "eGFR 24 below 30"
+  },
+  {
+    "id": "SYN-104",
+    "trial": "T-001",
+    "expected": "NOT_ELIGIBLE",
+    "why": "eGFR 68 above 59"
+  },
+  {
+    "id": "SYN-105",
+    "trial": "T-001",
+    "expected": "NOT_ELIGIBLE",
+    "why": "dialysis dependent"
+  },
+  {
+    "id": "SYN-106",
+    "trial": "T-001",
+    "expected": "NOT_ELIGIBLE",
+    "why": "age 84 above 80"
+  },
+  {
+    "id": "SYN-107",
+    "trial": "T-001",
+    "expected": "NEEDS_REVIEW",
+    "why": "dialysis status missing"
+  },
+  {
+    "id": "SYN-108",
+    "trial": "T-002",
+    "expected": "ELIGIBLE",
+    "why": "ECOG 0, PD-L1 80"
+  },
+  {
+    "id": "SYN-109",
+    "trial": "T-002",
+    "expected": "ELIGIBLE",
+    "why": "ECOG 1, PD-L1 5"
+  },
+  {
+    "id": "SYN-110",
+    "trial": "T-002",
+    "expected": "NOT_ELIGIBLE",
+    "why": "ECOG 3 above 1"
+  },
+  {
+    "id": "SYN-111",
+    "trial": "T-002",
+    "expected": "NOT_ELIGIBLE",
+    "why": "prior immunotherapy"
+  },
+  {
+    "id": "SYN-112",
+    "trial": "T-002",
+    "expected": "NOT_ELIGIBLE",
+    "why": "PD-L1 0 below 1"
+  },
+  {
+    "id": "SYN-113",
+    "trial": "T-002",
+    "expected": "NOT_ELIGIBLE",
+    "why": "bilirubin 2.4 x ULN"
+  },
+  {
+    "id": "SYN-114",
+    "trial": "T-002",
+    "expected": "NOT_ELIGIBLE",
+    "why": "autoimmune disease"
+  },
+  {
+    "id": "SYN-115",
+    "trial": "T-002",
+    "expected": "NEEDS_REVIEW",
+    "why": "PD-L1 not tested"
+  },
+  {
+    "id": "SYN-116",
+    "trial": "T-003",
+    "expected": "ELIGIBLE",
+    "why": "HbA1c 7.8, BMI 29"
+  },
+  {
+    "id": "SYN-117",
+    "trial": "T-003",
+    "expected": "ELIGIBLE",
+    "why": "HbA1c 10.2, BMI 35"
+  },
+  {
+    "id": "SYN-118",
+    "trial": "T-003",
+    "expected": "NOT_ELIGIBLE",
+    "why": "HbA1c 6.4 below 7.0"
+  },
+  {
+    "id": "SYN-119",
+    "trial": "T-003",
+    "expected": "NOT_ELIGIBLE",
+    "why": "HbA1c 11.5 above 10.5"
+  },
+  {
+    "id": "SYN-120",
+    "trial": "T-003",
+    "expected": "NOT_ELIGIBLE",
+    "why": "BMI 23 below 25"
+  },
+  {
+    "id": "SYN-121",
+    "trial": "T-003",
+    "expected": "NOT_ELIGIBLE",
+    "why": "eGFR 25 excluded"
+  },
+  {
+    "id": "SYN-122",
+    "trial": "T-003",
+    "expected": "NOT_ELIGIBLE",
+    "why": "pancreatitis history"
+  },
+  {
+    "id": "SYN-123",
+    "trial": "T-003",
+    "expected": "NOT_ELIGIBLE",
+    "why": "age 78 above 75"
+  },
+  {
+    "id": "SYN-124",
+    "trial": "T-003",
+    "expected": "NOT_ELIGIBLE",
+    "why": "pregnant (exclusion)"
+  },
+  {
+    "id": "SYN-125",
+    "trial": "T-003",
+    "expected": "NEEDS_REVIEW",
+    "why": "pancreatitis history missing"
+  },
+  {
+    "id": "SYN-126",
+    "trial": "T-003",
+    "expected": "NEEDS_REVIEW",
+    "why": "eGFR missing"
+  },
+  {
+    "id": "SYN-127",
+    "trial": "T-004",
+    "expected": "ELIGIBLE",
+    "why": "SBP 148, 3 medicines"
+  },
+  {
+    "id": "SYN-128",
+    "trial": "T-004",
+    "expected": "ELIGIBLE",
+    "why": "SBP 170, 5 medicines"
+  },
+  {
+    "id": "SYN-129",
+    "trial": "T-004",
+    "expected": "NOT_ELIGIBLE",
+    "why": "SBP 132 below 140"
+  },
+  {
+    "id": "SYN-130",
+    "trial": "T-004",
+    "expected": "NOT_ELIGIBLE",
+    "why": "only 2 medicines"
+  },
+  {
+    "id": "SYN-131",
+    "trial": "T-004",
+    "expected": "NOT_ELIGIBLE",
+    "why": "eGFR 28 excluded"
+  },
+  {
+    "id": "SYN-132",
+    "trial": "T-004",
+    "expected": "NEEDS_REVIEW",
+    "why": "medicine count missing"
+  },
+  {
+    "id": "SYN-133",
+    "trial": "T-005",
+    "expected": "ELIGIBLE",
+    "why": "8 months, methotrexate"
+  },
+  {
+    "id": "SYN-134",
+    "trial": "T-005",
+    "expected": "ELIGIBLE",
+    "why": "60 months, methotrexate"
+  },
+  {
+    "id": "SYN-135",
+    "trial": "T-005",
+    "expected": "NOT_ELIGIBLE",
+    "why": "duration 4 months below 6"
+  },
+  {
+    "id": "SYN-136",
+    "trial": "T-005",
+    "expected": "NOT_ELIGIBLE",
+    "why": "no methotrexate history"
+  },
+  {
+    "id": "SYN-137",
+    "trial": "T-005",
+    "expected": "NOT_ELIGIBLE",
+    "why": "active infection"
+  },
+  {
+    "id": "SYN-138",
+    "trial": "T-005",
+    "expected": "NOT_ELIGIBLE",
+    "why": "pregnant (exclusion)"
+  },
+  {
+    "id": "SYN-139",
+    "trial": "T-005",
+    "expected": "NEEDS_REVIEW",
+    "why": "infection status missing"
+  },
+  {
+    "id": "SYN-140",
+    "trial": "T-006",
+    "expected": "ELIGIBLE",
+    "why": "BRCA positive, ECOG 0"
+  },
+  {
+    "id": "SYN-141",
+    "trial": "T-006",
+    "expected": "ELIGIBLE",
+    "why": "BRCA positive, ECOG 2"
+  },
+  {
+    "id": "SYN-142",
+    "trial": "T-006",
+    "expected": "NOT_ELIGIBLE",
+    "why": "BRCA negative"
+  },
+  {
+    "id": "SYN-143",
+    "trial": "T-006",
+    "expected": "NOT_ELIGIBLE",
+    "why": "ECOG 3 above 2"
+  },
+  {
+    "id": "SYN-144",
+    "trial": "T-006",
+    "expected": "NOT_ELIGIBLE",
+    "why": "prior PARP inhibitor"
+  },
+  {
+    "id": "SYN-145",
+    "trial": "T-006",
+    "expected": "NEEDS_REVIEW",
+    "why": "BRCA not tested"
+  },
+  {
+    "id": "SYN-146",
+    "trial": "T-006",
+    "expected": "NEEDS_REVIEW",
+    "why": "ECOG missing"
+  },
+  {
+    "id": "SYN-147",
+    "trial": "T-003+T-004",
+    "expected": "ELIGIBLE",
+    "why": "diabetes AND resistant hypertension: eligible for two trials"
+  }
+]

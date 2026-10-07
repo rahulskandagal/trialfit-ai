@@ -1,0 +1,20 @@
+{
+  "patient_id": "SYN-142",
+  "patient_name": "Demo SYN-142",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Ovarian Cancer",
+  "demographics": {
+    "age": 54,
+    "sex": "Female",
+    "pregnancy_status": "Not pregnant"
+  },
+  "medical_history": {
+    "ecog_status": 1,
+    "brca_mutation": "negative",
+    "prior_parp_inhibitor": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {},
+  "treatment": {}
+}

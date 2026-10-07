@@ -1,0 +1,1086 @@
+{
+  "patients": [
+    {
+      "patient_id": "SYN-101",
+      "patient_name": "Demo SYN-101",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 52,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "dialysis_dependent": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 35,
+        "hba1c_percent": 6.5
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-102",
+      "patient_name": "Demo SYN-102",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 71,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "dialysis_dependent": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 55,
+        "hba1c_percent": 7.4
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-103",
+      "patient_name": "Demo SYN-103",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 60,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "dialysis_dependent": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 24
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-104",
+      "patient_name": "Demo SYN-104",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 49,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "dialysis_dependent": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 68
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-105",
+      "patient_name": "Demo SYN-105",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 66,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "dialysis_dependent": true
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 32
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-106",
+      "patient_name": "Demo SYN-106",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 84,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "dialysis_dependent": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 40
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-107",
+      "patient_name": "Demo SYN-107",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+      "demographics": {
+        "age": 57,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {},
+      "vital_signs": {},
+      "laboratory_results": {
+        "egfr": 42
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-108",
+      "patient_name": "Demo SYN-108",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 58,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "ecog_status": 0,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 80,
+        "bilirubin_uln_ratio": 0.8
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-109",
+      "patient_name": "Demo SYN-109",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IIIB",
+      "demographics": {
+        "age": 64,
+        "sex": "Female",
+        "pregnancy_status": "Not applicable (post-menopausal)"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 5,
+        "bilirubin_uln_ratio": 1.2
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-110",
+      "patient_name": "Demo SYN-110",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 72,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "ecog_status": 3,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 50,
+        "bilirubin_uln_ratio": 1.0
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-111",
+      "patient_name": "Demo SYN-111",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 61,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "prior_immunotherapy": true,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 60,
+        "bilirubin_uln_ratio": 0.9
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-112",
+      "patient_name": "Demo SYN-112",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 55,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 0,
+        "bilirubin_uln_ratio": 0.9
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-113",
+      "patient_name": "Demo SYN-113",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 67,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 30,
+        "bilirubin_uln_ratio": 2.4
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-114",
+      "patient_name": "Demo SYN-114",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 59,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "ecog_status": 0,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": true
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "pdl1_expression": 40,
+        "bilirubin_uln_ratio": 1.0
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-115",
+      "patient_name": "Demo SYN-115",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Non-Small Cell Lung Cancer Stage IV",
+      "demographics": {
+        "age": 62,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "prior_immunotherapy": false,
+        "autoimmune_disease": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "bilirubin_uln_ratio": 1.0
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-116",
+      "patient_name": "Demo SYN-116",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 40,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 7.8,
+        "egfr": 90
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 29.0
+      }
+    },
+    {
+      "patient_id": "SYN-117",
+      "patient_name": "Demo SYN-117",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 68,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 10.2,
+        "egfr": 65
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 35.0
+      }
+    },
+    {
+      "patient_id": "SYN-118",
+      "patient_name": "Demo SYN-118",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 50,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 6.4,
+        "egfr": 85
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 28.0
+      }
+    },
+    {
+      "patient_id": "SYN-119",
+      "patient_name": "Demo SYN-119",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 47,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 11.5,
+        "egfr": 80
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 31.0
+      }
+    },
+    {
+      "patient_id": "SYN-120",
+      "patient_name": "Demo SYN-120",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 45,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.0,
+        "egfr": 88
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 23.0
+      }
+    },
+    {
+      "patient_id": "SYN-121",
+      "patient_name": "Demo SYN-121",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 63,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.5,
+        "egfr": 25
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 30.0
+      }
+    },
+    {
+      "patient_id": "SYN-122",
+      "patient_name": "Demo SYN-122",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 54,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": true
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 9.0,
+        "egfr": 78
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 32.0
+      }
+    },
+    {
+      "patient_id": "SYN-123",
+      "patient_name": "Demo SYN-123",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 78,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.2,
+        "egfr": 60
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 27.0
+      }
+    },
+    {
+      "patient_id": "SYN-124",
+      "patient_name": "Demo SYN-124",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 31,
+        "sex": "Female",
+        "pregnancy_status": "Pregnant"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.1,
+        "egfr": 92
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 30.0
+      }
+    },
+    {
+      "patient_id": "SYN-125",
+      "patient_name": "Demo SYN-125",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 44,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2"
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.9,
+        "egfr": 88
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 33.0
+      }
+    },
+    {
+      "patient_id": "SYN-126",
+      "patient_name": "Demo SYN-126",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 51,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "history_of_pancreatitis": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {
+        "hba1c_percent": 8.3
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 29.5
+      }
+    },
+    {
+      "patient_id": "SYN-127",
+      "patient_name": "Demo SYN-127",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 55,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "antihypertensive_med_count": 3,
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "148/92"
+      },
+      "laboratory_results": {
+        "egfr": 60
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-128",
+      "patient_name": "Demo SYN-128",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 69,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "antihypertensive_med_count": 5,
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "170/100"
+      },
+      "laboratory_results": {
+        "egfr": 52
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-129",
+      "patient_name": "Demo SYN-129",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 60,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "antihypertensive_med_count": 3,
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "132/84"
+      },
+      "laboratory_results": {
+        "egfr": 70
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-130",
+      "patient_name": "Demo SYN-130",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 58,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "antihypertensive_med_count": 2,
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "155/95"
+      },
+      "laboratory_results": {
+        "egfr": 75
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-131",
+      "patient_name": "Demo SYN-131",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 71,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "antihypertensive_med_count": 4,
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "160/96"
+      },
+      "laboratory_results": {
+        "egfr": 28
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-132",
+      "patient_name": "Demo SYN-132",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Resistant Hypertension",
+      "demographics": {
+        "age": 53,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "hypertension": true
+      },
+      "vital_signs": {
+        "blood_pressure": "152/94"
+      },
+      "laboratory_results": {
+        "egfr": 68
+      },
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-133",
+      "patient_name": "Demo SYN-133",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 38,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "disease_duration_months": 8,
+        "active_infection": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-134",
+      "patient_name": "Demo SYN-134",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 57,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "disease_duration_months": 60,
+        "active_infection": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate",
+          "Prednisolone"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-135",
+      "patient_name": "Demo SYN-135",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 33,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "disease_duration_months": 4,
+        "active_infection": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-136",
+      "patient_name": "Demo SYN-136",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 46,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "disease_duration_months": 20,
+        "active_infection": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Sulfasalazine"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-137",
+      "patient_name": "Demo SYN-137",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 52,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "disease_duration_months": 30,
+        "active_infection": true
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-138",
+      "patient_name": "Demo SYN-138",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 29,
+        "sex": "Female",
+        "pregnancy_status": "Pregnant"
+      },
+      "medical_history": {
+        "disease_duration_months": 18,
+        "active_infection": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-139",
+      "patient_name": "Demo SYN-139",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Rheumatoid Arthritis",
+      "demographics": {
+        "age": 44,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "disease_duration_months": 24
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Methotrexate"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-140",
+      "patient_name": "Demo SYN-140",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 59,
+        "sex": "Female",
+        "pregnancy_status": "Not applicable (post-menopausal)"
+      },
+      "medical_history": {
+        "ecog_status": 0,
+        "brca_mutation": "positive",
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Carboplatin",
+          "Paclitaxel"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-141",
+      "patient_name": "Demo SYN-141",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 66,
+        "sex": "Female",
+        "pregnancy_status": "Not applicable (post-menopausal)"
+      },
+      "medical_history": {
+        "ecog_status": 2,
+        "brca_mutation": "positive",
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {
+        "previous_treatments": [
+          "Carboplatin"
+        ]
+      }
+    },
+    {
+      "patient_id": "SYN-142",
+      "patient_name": "Demo SYN-142",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 54,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "brca_mutation": "negative",
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-143",
+      "patient_name": "Demo SYN-143",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 70,
+        "sex": "Female",
+        "pregnancy_status": "Not applicable (post-menopausal)"
+      },
+      "medical_history": {
+        "ecog_status": 3,
+        "brca_mutation": "positive",
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-144",
+      "patient_name": "Demo SYN-144",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 62,
+        "sex": "Female",
+        "pregnancy_status": "Not applicable (post-menopausal)"
+      },
+      "medical_history": {
+        "ecog_status": 1,
+        "brca_mutation": "positive",
+        "prior_parp_inhibitor": true
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-145",
+      "patient_name": "Demo SYN-145",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 48,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "ecog_status": 0,
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-146",
+      "patient_name": "Demo SYN-146",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Ovarian Cancer",
+      "demographics": {
+        "age": 56,
+        "sex": "Female",
+        "pregnancy_status": "Not pregnant"
+      },
+      "medical_history": {
+        "brca_mutation": "positive",
+        "prior_parp_inhibitor": false
+      },
+      "vital_signs": {},
+      "laboratory_results": {},
+      "treatment": {}
+    },
+    {
+      "patient_id": "SYN-147",
+      "patient_name": "Demo SYN-147",
+      "data_type": "synthetic",
+      "purpose": "trialfit_live_demo",
+      "primary_diagnosis": "Type 2 Diabetes Mellitus",
+      "demographics": {
+        "age": 56,
+        "sex": "Male",
+        "pregnancy_status": "Not applicable"
+      },
+      "medical_history": {
+        "diabetes": true,
+        "diabetes_type": "Type 2",
+        "hypertension": true,
+        "history_of_pancreatitis": false,
+        "antihypertensive_med_count": 3
+      },
+      "vital_signs": {
+        "blood_pressure": "150/94"
+      },
+      "laboratory_results": {
+        "hba1c_percent": 8.5,
+        "egfr": 75
+      },
+      "treatment": {},
+      "clinical_information": {
+        "bmi": 30.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+codeName,sex,age,primaryDiagnosis,pregnancyStatus,egfr,hba1c,bmi,ecogStatus,pdl1Expression,bilirubinUlnRatio,restingSystolicBP,antihypertensiveMedCount,diseaseDurationMonths,brcaMutation,dialysisDependent,priorImmunotherapy,autoimmuneDisease,activeInfection,historyOfPancreatitis,priorPARPInhibitor,priorTherapies,comorbidities
+Sample CKD patient,male,62,Chronic Kidney Disease Stage 3,not_applicable,44,7.2,28.1,,,,,,,,no,,,,,,ACE inhibitor,Hypertension
+Sample lung patient,female,57,Non-Small Cell Lung Cancer Stage IV,not_applicable,,,,1,60,1.0,,,,,,no,no,,,,Carboplatin;Pemetrexed,
+Sample diabetes patient,female,44,Type 2 Diabetes Mellitus,not_pregnant,,8.9,33.0,,,,,,,,,,,,no,,Metformin,Obesity
+Sample hypertension patient,male,68,Resistant Hypertension,not_applicable,58,,,,,,158,4,,,,,,,,,ACE inhibitor;Beta blocker;Thiazide diuretic,
+Sample RA patient,female,41,Rheumatoid Arthritis,not_pregnant,,,,,,,,,22,,,,,no,,,Methotrexate,
+Sample ovarian patient,female,59,Ovarian Cancer,not_applicable,,,,0,,,,,,positive,,,,,,no,Carboplatin;Paclitaxel,

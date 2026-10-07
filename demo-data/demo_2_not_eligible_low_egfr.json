@@ -1,0 +1,21 @@
+{
+  "patient_id": "DEMO-02",
+  "patient_name": "Demo DEMO-02",
+  "data_type": "synthetic",
+  "purpose": "trialfit_live_demo",
+  "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+  "demographics": {
+    "age": 45,
+    "sex": "Female",
+    "pregnancy_status": "Not pregnant"
+  },
+  "medical_history": {
+    "dialysis_dependent": false
+  },
+  "vital_signs": {},
+  "laboratory_results": {
+    "egfr": 22,
+    "hba1c_percent": 7.1
+  },
+  "treatment": {}
+}
