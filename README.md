@@ -1,4 +1,6 @@
-# TrialFit AI
+﻿# TrialFit AI
+
+**Live demo**: https://rahulskandagal.github.io/trialfit-ai/
 
 AI-assisted clinical trial screening and recruitment decision support. A deterministic rule engine makes every
 eligibility decision; AI only assists with explanation and protocol interpretation.
@@ -16,13 +18,13 @@ npm run build && npm start
 
 ## Features
 
-- **Screening** — patient × protocol, decision, explainable match score, criteria table, decision trace, explanation, missing information
-- **What-if simulator** — adjust a failed/unrecorded value and re-run the same engine on a temporary copy
-- **Trial matching** — one patient against all protocols, ranked
-- **Protocol intelligence** — free-text criteria → structured rules (unrecognised lines are flagged, never guessed), candidate pool, protocol-change impact
-- **Recruitment radar** — funnel, top blocking criteria, patient × trial heatmap (live from the dataset)
-- **Upload data** — import patients from CSV/JSON (template and `sample-data/sample-patients.csv` included), validated row by row, stored only in the browser, and compared against every protocol; uploaded patients then appear in every workspace. Identifier columns (name, DOB, MRN…) are never imported.
-- **Validation** — accuracy/precision/recall/F1 computed against hand-labelled synthetic cases
+- **Screening** â€” patient Ã— protocol, decision, explainable match score, criteria table, decision trace, explanation, missing information
+- **What-if simulator** â€” adjust a failed/unrecorded value and re-run the same engine on a temporary copy
+- **Trial matching** â€” one patient against all protocols, ranked
+- **Protocol intelligence** â€” free-text criteria â†’ structured rules (unrecognised lines are flagged, never guessed), candidate pool, protocol-change impact
+- **Recruitment radar** â€” funnel, top blocking criteria, patient Ã— trial heatmap (live from the dataset)
+- **Upload data** â€” import patients from CSV/JSON (template and `sample-data/sample-patients.csv` included), validated row by row, stored only in the browser, and compared against every protocol; uploaded patients then appear in every workspace. Identifier columns (name, DOB, MRNâ€¦) are never imported.
+- **Validation** â€” accuracy/precision/recall/F1 computed against hand-labelled synthetic cases
 
 ## AI explanation mode
 
@@ -32,5 +34,6 @@ The AI never alters the eligibility decision.
 
 ## Layout
 
-`src/lib/engine` rule engine (single source of truth) · `src/lib/data` synthetic data · `src/lib/protocol` parser ·
-`src/lib/analytics` radar / impact / validation · `src/lib/explain` explanation layer
+`src/lib/engine` rule engine (single source of truth) Â· `src/lib/data` synthetic data Â· `src/lib/protocol` parser Â·
+`src/lib/analytics` radar / impact / validation Â· `src/lib/explain` explanation layer
+
